@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF3B30&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=42&fontColor=0A0A0A&fontAlignY=42&desc=Full-Stack%20(MERN)%20Developer&descAlignY=62&descSize=18&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:FF3B30,100:0A0A0A&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=44&fontColor=FFFFFF&fontFamily=Poppins&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20(MERN)%20Developer&descAlignY=58&descSize=18&descColor=FFFFFF" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=650&lines=2+Real-World+Industry+Projects+Shipped+in+6+Months;Building+HotelsMint+%E2%80%94+Next.js+%2B+TypeScript+%2B+MongoDB;Built+EasyFlowX+%E2%80%94+MERN+Employee+Management+SaaS;Open+to+Work+%7C+Remote+%2F+Full-Time+%2F+Freelance" alt="Typing SVG" />
@@ -107,4 +107,4 @@ $ status
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=FF3B30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:FF3B30,100:0A0A0A&height=100&section=footer" width="100%"/>
