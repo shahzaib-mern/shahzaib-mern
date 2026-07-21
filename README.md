@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:22D3EE&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20Developer&descAlignY=58&descSize=18&descColor=67E8F9" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1A1A,100:0A0A0A&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20Developer&descAlignY=58&descSize=18&descColor=FF3B30" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=2+Real-World+Industry+Projects+Shipped+in+6+Months;Building+HotelsMint+%E2%80%94+Next.js+%2B+MERN+Hotel+SaaS;Built+EasyFlowX+%E2%80%94+MERN+Employee+Management+SaaS;Open+to+Work+%7C+Remote+%2F+Full-Time+%2F+Freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=650&lines=2+Real-World+Industry+Projects+Shipped+in+6+Months;Building+HotelsMint+%E2%80%94+Next.js+%2B+TypeScript+%2B+MongoDB;Built+EasyFlowX+%E2%80%94+MERN+Employee+Management+SaaS;Open+to+Work+%7C+Remote+%2F+Full-Time+%2F+Freelance" alt="Typing SVG" />
 </a>
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF5A1F?style=flat-square&labelColor=1a1a1a)](https://shahzaibprofile31.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaibali31)
-[![Connect](https://img.shields.io/badge/CONNECT-0EA5E9?style=flat-square&labelColor=1e293b)](mailto:shahzaibali55531@gmail.com)
-[![Open to Work](https://img.shields.io/badge/✓_OPEN_TO_WORK-22C55E?style=flat-square&labelColor=1a1a1a)](#)
-[![Email](https://img.shields.io/badge/EMAIL-4b5563?style=flat-square&logo=gmail&logoColor=white)](mailto:shahzaibali55531@gmail.com)
-[![Say Hello](https://img.shields.io/badge/SAY_HELLO-DB2777?style=flat-square&labelColor=1a1a1a)](https://linkedin.com/in/shahzaibali31)
+[![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-0A0A0A?style=flat-square)](https://shahzaibprofile31.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A0A0A?style=flat-square&logo=linkedin&logoColor=FF3B30)](https://linkedin.com/in/shahzaibali31)
+[![Connect](https://img.shields.io/badge/CONNECT-FF3B30?style=flat-square&labelColor=FF3B30)](mailto:shahzaibali55531@gmail.com)
+[![Open to Work](https://img.shields.io/badge/🔴_OPEN_TO_WORK-0A0A0A?style=flat-square)](#)
+[![Email](https://img.shields.io/badge/EMAIL-0A0A0A?style=flat-square&logo=gmail&logoColor=FF3B30)](mailto:shahzaibali55531@gmail.com)
+[![Say Hello](https://img.shields.io/badge/SAY_HELLO-FF3B30?style=flat-square)](https://linkedin.com/in/shahzaibali31)
 
 </div>
 
@@ -27,7 +27,7 @@ $ uptime
 > 6 months professional experience :: 14+ projects shipped :: month 2 as full stack dev
 
 $ ls ./currently_shipping
-hotelsmint/          # hotel management SaaS :: next.js + node + express + mongodb :: still building
+hotelsmint/          # hotel management SaaS :: next.js + typescript + mongodb + tailwind :: still building
 easyflowx-dashboard/ # employee management SaaS :: mern :: confidential client project
 
 $ cat career.txt
@@ -37,7 +37,7 @@ $ cat career.txt
 >
 > 2 real-world industry projects delivered in 6 months:
 >   - easyflowx dashboard :: saas employee management system :: mern (confidential, under nda)
->   - hotelsmint :: hotel management saas :: next.js/typescript + node/express/mongodb :: in progress
+>   - hotelsmint :: hotel management saas :: next.js + typescript + mongodb + tailwind css :: in progress
 >
 > education: bs software engineering, university of sargodha :: cgpa 3.72/4.0
 
@@ -49,23 +49,39 @@ $ status
 
 <div align="center">
 
-### ⚡ Arsenal
+### ⚙️ MERN + Modern Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,nextjs,react,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,html,css&theme=dark" />
 
-<br/>
+<br/><br/>
 
-[![Hostinger](https://img.shields.io/badge/HOSTED_ON-Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)](#)
-[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions_→_VPS%2FPM2-1a1a1a?style=flat-square&logo=githubactions&logoColor=white)](#)
+### 🧠 Core CS / Software Engineering
 
-<br/>
+<img src="https://skillicons.dev/icons?i=cpp,java&theme=dark" />
+
+![DSA](https://img.shields.io/badge/DSA-0A0A0A?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-0A0A0A?style=flat-square)
+![DBMS & SQL](https://img.shields.io/badge/DBMS_%26_SQL-0A0A0A?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking_(CCNA)-0A0A0A?style=flat-square)
+![OS Concepts](https://img.shields.io/badge/OS_Concepts-0A0A0A?style=flat-square)
+
+<br/><br/>
+
+### 🛠 Tools & Hosting
+
+<img src="https://skillicons.dev/icons?i=git,github,mysql,vercel,netlify&theme=dark" />
+
+![Hostinger](https://img.shields.io/badge/Hostinger-FF3B30?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD_→_VPS%2FPM2-0A0A0A?style=flat-square)
+
+<br/><br/>
 
 ### 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahzaib-mern&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=0891B2&text_color=E0F2FE" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-mern&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E0F2FE" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahzaib-mern&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&icon_color=FF3B30&text_color=FFFFFF&cache_seconds=1800" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-mern&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=FFFFFF&cache_seconds=1800" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-mern&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=0891B2&currStreakLabel=22D3EE" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-mern&hide_border=true&background=0A0A0A&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
 
 </div>
 
@@ -75,7 +91,7 @@ $ status
 
 | Project | Description | Tech |
 |---|---|---|
-| **HotelsMint** *(still building)* | Hotel management SaaS — full-stack ownership, live navigation UI with an interactive globe | Next.js, TypeScript, Node.js, Express.js, MongoDB |
+| **HotelsMint** *(still building)* | Hotel management SaaS — full-stack ownership, live navigation UI with an interactive globe | Next.js, TypeScript, MongoDB, Tailwind CSS |
 | **EasyFlowX Dashboard** *(confidential client project)* | Complete employee management system for an internal company SaaS product — details under NDA | MERN Stack |
 
 <br/>
@@ -97,4 +113,4 @@ $ status
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:0891B2,100:0F172A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:FF3B30,100:0A0A0A&height=100&section=footer" width="100%"/>
