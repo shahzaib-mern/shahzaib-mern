@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:1A1A1A,100:0A0A0A&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20Developer&descAlignY=58&descSize=18&descColor=FF3B30" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=Full-Stack%20(MERN)%20Developer&descAlignY=62&descSize=18&descColor=FF3B30" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3B30&center=true&vCenter=true&width=650&lines=2+Real-World+Industry+Projects+Shipped+in+6+Months;Building+HotelsMint+%E2%80%94+Next.js+%2B+TypeScript+%2B+MongoDB;Built+EasyFlowX+%E2%80%94+MERN+Employee+Management+SaaS;Open+to+Work+%7C+Remote+%2F+Full-Time+%2F+Freelance" alt="Typing SVG" />
@@ -21,25 +21,28 @@
 
 ```bash
 $ whoami
-> shahzaib ali :: full-stack (mern) developer :: sargodha, pk :: remote-friendly
+> shahzaib ali :: full-stack (mern) developer
+> sargodha, pk :: remote-friendly
 
 $ uptime
-> 6 months professional experience :: 14+ projects shipped :: month 2 as full stack dev
+> 6 months experience :: 14+ projects shipped
+> month 2 as full stack developer
 
 $ ls ./currently_shipping
-hotelsmint/          # hotel management SaaS :: next.js + typescript + mongodb + tailwind :: still building
-easyflowx-dashboard/ # employee management SaaS :: mern :: confidential client project
+hotelsmint/          # next.js + typescript + mongodb
+easyflowx-dashboard/ # mern :: confidential client project
 
 $ cat career.txt
-> jun 2026 - present   full stack developer @ innovative brain (promoted from intern, 3 months)
-> mar 2026 - may 2026   frontend developer intern @ innovative brain
-> may 2026 - jun 2026   frontend web developer intern @ growistan ventures
+> jun 2026 - present   full stack dev @ innovative brain
+> mar 2026 - may 2026   frontend intern @ innovative brain
+> may 2026 - jun 2026   frontend intern @ growistan ventures
 >
-> 2 real-world industry projects delivered in 6 months:
->   - easyflowx dashboard :: saas employee management system :: mern (confidential, under nda)
->   - hotelsmint :: hotel management saas :: next.js + typescript + mongodb + tailwind css :: in progress
+> 2 real-world industry projects in 6 months:
+>   - easyflowx :: saas employee mgmt system (nda)
+>   - hotelsmint :: hotel saas :: in progress
 >
-> education: bs software engineering, university of sargodha :: cgpa 3.72/4.0
+> bs software engineering, university of sargodha
+> cgpa 3.72/4.0
 
 $ status
 > [ open to work — remote / full-time / freelance ]
@@ -74,15 +77,6 @@ $ status
 ![Hostinger](https://img.shields.io/badge/Hostinger-FF3B30?style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/CI%2FCD_→_VPS%2FPM2-0A0A0A?style=flat-square)
 
-<br/><br/>
-
-### 📊 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shahzaib-mern&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&icon_color=FF3B30&text_color=FFFFFF&cache_seconds=1800" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-mern&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=FF3B30&text_color=FFFFFF&cache_seconds=1800" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shahzaib-mern&hide_border=true&background=0A0A0A&ring=FF3B30&fire=FF3B30&currStreakLabel=FF3B30&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" />
-
 </div>
 
 <br/>
@@ -113,4 +107,4 @@ $ status
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:FF3B30,100:0A0A0A&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0A0A0A&height=100&section=footer" width="100%"/>
