@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0891B2,100:22D3EE&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=42&fontColor=E0F2FE&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20(MERN)%20Developer&descAlignY=58&descSize=18&descColor=67E8F9" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+HotelsMint+%E2%80%94+a+hotel+SaaS+platform;6+Months+Experience+%7C+14%2B+Projects+Shipped;Promoted%3A+Intern+%E2%86%92+Full+Stack+Developer+in+3+Months;Open+to+Remote+Contracts+%7C+Relocating+to+KSA+Oct+2027" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=2+Real-World+Industry+Projects+Shipped+in+6+Months;Building+HotelsMint+%E2%80%94+Next.js+%2B+MERN+Hotel+SaaS;Built+EasyFlowX+%E2%80%94+MERN+Employee+Management+SaaS;Open+to+Work+%7C+Remote+%2F+Full-Time+%2F+Freelance" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-FF5A1F?style=flat-square&labelColor=1a1a1a)](https://shahzaibprofile31.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahzaibali31)
 [![Connect](https://img.shields.io/badge/CONNECT-0EA5E9?style=flat-square&labelColor=1e293b)](mailto:shahzaibali55531@gmail.com)
-[![Verified](https://img.shields.io/badge/✓_AVAILABLE-22C55E?style=flat-square&labelColor=1a1a1a)](#)
+[![Open to Work](https://img.shields.io/badge/✓_OPEN_TO_WORK-22C55E?style=flat-square&labelColor=1a1a1a)](#)
 [![Email](https://img.shields.io/badge/EMAIL-4b5563?style=flat-square&logo=gmail&logoColor=white)](mailto:shahzaibali55531@gmail.com)
 [![Say Hello](https://img.shields.io/badge/SAY_HELLO-DB2777?style=flat-square&labelColor=1a1a1a)](https://linkedin.com/in/shahzaibali31)
 
@@ -27,17 +27,22 @@ $ uptime
 > 6 months professional experience :: 14+ projects shipped :: month 2 as full stack dev
 
 $ ls ./currently_shipping
-hotelsmint/            # hotel management SaaS :: react + node + express + mongodb :: live
-navigation-globe-ui/   # react-globe.gl navigation experience :: production
+hotelsmint/          # hotel management SaaS :: next.js + node + express + mongodb :: still building
+easyflowx-dashboard/ # employee management SaaS :: mern :: confidential client project
 
 $ cat career.txt
 > jun 2026 - present   full stack developer @ innovative brain (promoted from intern, 3 months)
 > mar 2026 - may 2026   frontend developer intern @ innovative brain
 > may 2026 - jun 2026   frontend web developer intern @ growistan ventures
-> education: bs software engineering, university of sargodha :: cgpa 3.72/4.0 :: expected oct 2027
+>
+> 2 real-world industry projects delivered in 6 months:
+>   - easyflowx dashboard :: saas employee management system :: mern (confidential, under nda)
+>   - hotelsmint :: hotel management saas :: next.js/typescript + node/express/mongodb :: in progress
+>
+> education: bs software engineering, university of sargodha :: cgpa 3.72/4.0
 
 $ status
-> [ remote contract available now -> relocating to saudi arabia upon graduation (oct 2027) ]
+> [ open to work — remote / full-time / freelance ]
 ```
 
 <br/>
@@ -46,9 +51,14 @@ $ status
 
 ### ⚡ Arsenal
 
-<img src="https://skillicons.dev/icons?i=cpp,java,js,react,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,vercel,netlify,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,nextjs,react,nodejs,express,mongodb,mysql,tailwind,html,css,git,github,docker&theme=dark" />
 
-<br/><br/>
+<br/>
+
+[![Hostinger](https://img.shields.io/badge/HOSTED_ON-Hostinger-673DE6?style=flat-square&logo=hostinger&logoColor=white)](#)
+[![CI/CD](https://img.shields.io/badge/CI%2FCD-GitHub_Actions_→_VPS%2FPM2-1a1a1a?style=flat-square&logo=githubactions&logoColor=white)](#)
+
+<br/>
 
 ### 📊 GitHub Stats
 
@@ -61,17 +71,28 @@ $ status
 
 <br/>
 
-### 🚀 Featured Projects
+### 💼 Industry Projects
 
 | Project | Description | Tech |
 |---|---|---|
-| **HotelsMint** | Hotel management SaaS platform — live, full-stack ownership | React.js, Node.js, Express.js, MongoDB |
-| **Client CRM Management System** | CRM for clients, deals, and pipelines with interactive data tables | React.js, Tailwind CSS |
-| **Banking Management Dashboard** | Financial-ops dashboard modelling accounts, transactions, loans | React.js, Tailwind CSS, Vercel |
-| **Hospital Management System** | Multi-role app with dashboards for patients, doctors, billing | React.js, Tailwind CSS, Vite |
+| **HotelsMint** *(still building)* | Hotel management SaaS — full-stack ownership, live navigation UI with an interactive globe | Next.js, TypeScript, Node.js, Express.js, MongoDB |
+| **EasyFlowX Dashboard** *(confidential client project)* | Complete employee management system for an internal company SaaS product — details under NDA | MERN Stack |
+
+<br/>
+
+### 🧩 Personal / Practice Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [**car-rental**](https://github.com/shahzaib-mern/car-rental) | Responsive car rental site with animated UI and booking flow | React 19, Vite, Tailwind CSS, AOS |
+| [**hospital-management-system**](https://github.com/shahzaib-mern/hospital-management-system) | Dashboards for patients, doctors, staff, billing, wards | React, Tailwind CSS, Vite |
+| [**client-management-system**](https://github.com/shahzaib-mern/client-management-system) | CRM with data tables, modals, and real-time insights | React, dashboard UI |
+| [**banking-management-system**](https://github.com/shahzaib-mern/banking-management-system) | Financial dashboard — accounts, transactions, loans, analytics | React, JavaScript |
+| [**ccna-blogs**](https://github.com/shahzaib-mern/ccna-blogs) | CCNA 200-301 exam prep app with subnet calculator & quizzes | React, Tailwind CSS |
+| [**ecommerce**](https://github.com/shahzaib-mern/ecommerce) | Storefront with product pages, cart, and basic auth | React, React Router |
 
 <div align="center">
-<sub>+10 more shipped applications — full portfolio at <a href="https://shahzaibprofile31.netlify.app">shahzaibprofile31.netlify.app</a></sub>
+<sub>+8 more shipped apps (weather, quiz, notes, currency converter & more) — full list at <a href="https://github.com/shahzaib-mern?tab=repositories">github.com/shahzaib-mern</a></sub>
 </div>
 
 <br/>
