@@ -1,19 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12141A,100:1A1D26&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=46&fontColor=F3F4F6&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20(MERN)%20Developer&descAlignY=58&descSize=18&descColor=9CA3AF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B3B,50:A81C1C,100:FF7A7A&height=200&section=header&text=SHAHZAIB%20ALI&fontSize=46&fontColor=F3F4F6&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20(MERN)%20Developer&descAlignY=58&descSize=18&descColor=F3F4F6" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=F3F4F6&center=true&vCenter=true&width=650&lines=2+Real-World+Industry+Projects+Shipped+in+6+Months;Building+HotelsMint+%E2%80%94+Next.js+%2B+TypeScript+%2B+MongoDB;Built+EasyFlowX+%E2%80%94+MERN+Employee+Management+SaaS;Open+to+Work+%7C+Remote+%2F+Full-Time+%2F+Freelance" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=2+Real-World+Industry+Projects+Shipped+in+6+Months;Building+HotelsMint+%E2%80%94+Next.js+%2B+TypeScript+%2B+MongoDB;Built+EasyFlowX+%E2%80%94+MERN+Employee+Management+SaaS;Open+to+Work+%7C+Remote+%2F+Full-Time+%2F+Freelance" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_PORTFOLIO-1A1D26?style=flat-square)](https://shahzaibprofile31.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-1A1D26?style=flat-square&logo=linkedin&logoColor=F3F4F6)](https://linkedin.com/in/shahzaibali31)
-[![Connect](https://img.shields.io/badge/CONNECT-F3F4F6?style=flat-square&labelColor=F3F4F6)](mailto:shahzaibali55531@gmail.com)
-[![Open to Work](https://img.shields.io/badge/●_OPEN_TO_WORK-1A1D26?style=flat-square)](#)
+[![Connect](https://img.shields.io/badge/CONNECT-FF3B3B?style=flat-square&labelColor=FF3B3B)](mailto:shahzaibali55531@gmail.com)
+[![Open to Work](https://img.shields.io/badge/🔴_OPEN_TO_WORK-1A1D26?style=flat-square)](#)
 [![Email](https://img.shields.io/badge/EMAIL-1A1D26?style=flat-square&logo=gmail&logoColor=F3F4F6)](mailto:shahzaibali55531@gmail.com)
-[![Say Hello](https://img.shields.io/badge/SAY_HELLO-F3F4F6?style=flat-square)](https://linkedin.com/in/shahzaibali31)
+[![Say Hello](https://img.shields.io/badge/SAY_HELLO-FF3B3B?style=flat-square)](https://linkedin.com/in/shahzaibali31)
 
 </div>
 
@@ -107,4 +107,4 @@ $ status
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12141A,100:1A1D26&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3B3B,50:A81C1C,100:FF7A7A&height=100&section=footer" width="100%"/>
